@@ -1,261 +1,179 @@
-<!-- ================================================= -->
-<!-- AI AGENT OPERATIONS CENTER -->
-<!-- ================================================= -->
+<!-- ========================================================= -->
+<!--               AI AGENT OPERATIONS CENTER                  -->
+<!-- ========================================================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=1100&lines=AI+AGENT+OPERATIONS+CENTER;Deploying+Intelligent+Automation;Claude+%7C+OpenAI+%7C+Lovable+%7C+Antigravity;Secure+AI+Engineering+for+Real-World+Business" />
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,50:0F172A,100:0EA5E9&text=AI%20Agent%20Operations%20Center&fontColor=00E5FF&fontSize=42"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&duration=3000&color=22D3EE&center=true&vCenter=true&width=1100&lines=AI+Agent+Operations+Center;Building+Intelligent+Automation;Claude+%7C+OpenAI+%7C+Lovable+%7C+Antigravity;Secure+Engineering+for+Business" />
 
 </p>
 
 ---
 
-# 🤖 AI AGENT OPERATIONS CENTER
+# 👋 Hi, I'm Gean Remona
 
-```
-══════════════════════════════════════════════════════════
+### AI Automation Engineer • Python Developer • Security-minded Builder
 
-SYSTEM STATUS        ● ONLINE
-AI ORCHESTRATOR      ● ACTIVE
-CLAUDE               ● CONNECTED
-OPENAI               ● CONNECTED
-LOVABLE              ● CONNECTED
-ANTIGRAVITY          ● CONNECTED
+I design and build intelligent systems that automate real-world business operations.
 
-MCP SERVERS          ● AVAILABLE
+My work combines **AI agents**, **secure software engineering**, and **automation** to solve problems across:
 
-AUTOMATION           ● RUNNING
-
-SECURITY             ● ENABLED
-
-══════════════════════════════════════════════════════════
-```
+- 🤖 Agentic AI
+- 💰 Pricing Intelligence
+- 📈 Revenue Operations
+- 📡 Telecom
+- 🔒 Secure Development
+- ⚡ Workflow Automation
 
 ---
 
-# 👋 Operator
+# 🚀 Mission Control
 
-```yaml
-name: Gean Remona
-
-role:
-  AI Automation Engineer
-
-mission:
-  Build intelligent AI systems that automate
-  real-world business operations securely.
-
-specialization:
-  - AI Agents
-  - Agentic Workflows
-  - Python Automation
-  - Revenue Operations
-  - Pricing Intelligence
-  - Telecom
-  - Secure Software
-
-engineering:
-  Security First
-```
+| Module | Status |
+|---------|--------|
+| AI Agent Orchestrator | 🟢 ONLINE |
+| Claude | 🟢 ACTIVE |
+| OpenAI | 🟢 ACTIVE |
+| Lovable | 🟢 READY |
+| Antigravity | 🟢 READY |
+| Python Runtime | 🟢 RUNNING |
+| MCP Servers | 🟢 CONNECTED |
+| Automation Pipelines | 🟢 ACTIVE |
+| Security Layer | 🟢 ENABLED |
 
 ---
 
 # 🧠 AI Stack
 
-<table>
+### Reasoning
 
-<tr>
+- Claude
+- OpenAI GPT
 
-<td align="center">
+### AI Development
 
-🤖
+- Lovable
+- Antigravity
+- Cursor
 
-### Claude
+### Agent Frameworks
 
-Reasoning
+- LangChain
+- CrewAI
+- MCP
+- RAG
 
-Planning
+### Backend
 
-Coding
+- Python
+- FastAPI
+- REST APIs
+- PostgreSQL
 
-</td>
+### DevOps
 
-<td align="center">
-
-🧠
-
-### OpenAI
-
-LLMs
-
-GPT
-
-Embeddings
-
-Assistants
-
-</td>
-
-<td align="center">
-
-💚
-
-### Lovable
-
-Rapid Apps
-
-UI Generation
-
-Full Stack
-
-</td>
-
-<td align="center">
-
-🚀
-
-### Antigravity
-
-AI Development
-
-Rapid Engineering
-
-Automation
-
-</td>
-
-</tr>
-
-</table>
+- Docker
+- GitHub Actions
+- Linux
 
 ---
 
-# ⚙ AI Agent Fleet
-
-| Agent | Mission | Status |
-|--------|----------|--------|
-| 🤖 Research Agent | Analyze Requirements | 🟢 |
-| ⚡ Automation Agent | Build Workflows | 🟢 |
-| 💰 Pricing Agent | Revenue Optimization | 🟢 |
-| 📡 Telecom Agent | API Integrations | 🟢 |
-| 🛡 Security Agent | Secure Development | 🟢 |
-| 📊 Analytics Agent | Business Intelligence | 🟢 |
-
----
-
-# 🚀 Current Operations
-
-```bash
-> Booting Agent Operations Center...
-
-✓ Initializing Claude
-
-✓ Initializing OpenAI
-
-✓ Connecting Lovable
-
-✓ Connecting Antigravity
-
-✓ Loading MCP Servers
-
-✓ Starting AI Agents
-
-✓ Loading Business Knowledge
-
-✓ Automation Ready
-
-System Ready.
-```
-
----
-
-# 🛠 Technology Arsenal
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
-
-![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash)
-
----
-
-### AI Engineering
-
-![Claude](https://img.shields.io/badge/Claude-AI-blue?style=for-the-badge)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-
-![LangChain](https://img.shields.io/badge/LangChain-success?style=for-the-badge)
-
-![CrewAI](https://img.shields.io/badge/CrewAI-orange?style=for-the-badge)
-
-![MCP](https://img.shields.io/badge/MCP-purple?style=for-the-badge)
-
----
-
-### Development
-
-Docker
-
-GitHub Actions
-
-Linux
-
-FastAPI
-
-REST APIs
-
-PostgreSQL
-
----
-
-# 📊 Live Operations Dashboard
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=geanremona&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=geanremona&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Intelligence Dashboard
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanremona&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=geanremona&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🛰 Agent Console
+# ⚙ Agent Workflow
 
 ```text
-╔════════════════════════════════════════════════════╗
-║ AI Agent Operations Center                        ║
-╠════════════════════════════════════════════════════╣
-║ Claude            ████████████████ 100%          ║
-║ OpenAI            ████████████████ 100%          ║
-║ Lovable           ████████████████ 100%          ║
-║ Antigravity       ████████████████ 100%          ║
-║ Python            ████████████████ 100%          ║
-║ Automation        ████████████████ 100%          ║
-║ Security          ████████████████ 100%          ║
-╚════════════════════════════════════════════════════╝
+                USER REQUEST
+                      │
+                      ▼
+           Planning & Reasoning
+         (Claude / OpenAI Models)
+                      │
+                      ▼
+             AI Agent Orchestrator
+                      │
+      ┌───────────────┼────────────────┐
+      ▼               ▼                ▼
+ Business APIs     MCP Tools      Python Runtime
+      │               │                │
+      └───────────────┼────────────────┘
+                      ▼
+             Validation & Security
+                      ▼
+             Automated Deployment
 ```
+
+---
+
+# 💼 Current Focus
+
+### 🤖 AI Agents
+
+Building autonomous assistants capable of planning, tool calling, and executing complex workflows.
+
+---
+
+### ⚡ Business Automation
+
+Automating pricing, revenue operations, telecom workflows, and internal processes.
+
+---
+
+### 🔒 Security
+
+Designing secure-by-default systems with authentication, API security, and defensive engineering principles.
+
+---
+
+# 🛰 Active Operations
+
+```text
+✓ Building AI Agents
+
+✓ Workflow Automation
+
+✓ Revenue Intelligence
+
+✓ Pricing Optimization
+
+✓ Telecom Integrations
+
+✓ Secure APIs
+
+✓ Python Engineering
+
+✓ Continuous Learning
+```
+
+---
+
+# 🛠 Technology
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,postgres,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🧩 Engineering Principles
+
+> Build software that thinks.
+
+> Build agents that act.
+
+> Build automation that creates measurable business value.
+
+> Keep security built in—not bolted on.
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=geanremona&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
 
 ---
 
@@ -269,14 +187,24 @@ PostgreSQL
 
 ---
 
-# 💡 Engineering Philosophy
+# 🌐 Connect
 
-> **Build AI agents that don't just answer questions—they automate work, integrate systems, and solve measurable business problems securely.**
+<p align="center">
+
+<a href="https://github.com/geanremona">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- [LinkedIn](https://www.linkedin.com/in/geanremona/) -->
+
+<!-- [Portfolio](https://www.geanremona.com/) -->
+
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0EA5E9&height=180&section=footer"/>
+<i>Building intelligent systems that solve real business problems.</i>
 
 </p>
