@@ -1,77 +1,167 @@
-# Hi there, I'm Gean Remona <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Technologies;Building+Solutions+That+Matter" alt="Typing SVG" />
+# Hi 👋 I'm **Gean Remona**
+
+### 🚀 AI Engineer • Full Stack Developer • Java Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Building+AI+Agents;Java+%7C+Spring+Boot+Developer;Python+Automation;Full+Stack+Web+Developer;Always+Learning+New+Technologies"/>
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=geanremona&style=for-the-badge&color=0E75B6"/>
+
+<img src="https://img.shields.io/github/followers/geanremona?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/geanremona?style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-  <a href="https://github.com/geanremona">
-    <img src="https://komarev.com/ghpvc/?username=geanremona&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-I'm a passionate Full Stack Developer who enjoys designing and building scalable, user-focused applications. I like solving real-world problems with clean code and continuously expanding my technical skills.
+I'm a software developer passionate about building **AI-powered applications**, intelligent automation, and scalable backend systems.
 
-* 🔭 Currently building full-stack web applications
-* 🌱 Learning advanced cloud technologies, system design, and AI integrations
-* 💡 Interested in Java, Spring Boot, React, REST APIs, Microservices, and DevOps
-* 🤝 Open to collaboration on impactful open-source projects
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
-* ⚡ Fun fact: I enjoy turning ideas into working products.
+My recent work focuses on:
 
----
+* 🤖 AI Agents
+* 🧠 Large Language Model integrations
+* ☕ Java & Spring Boot
+* 🐍 Python automation
+* ⚛️ Modern React applications
+* ☁️ Cloud-ready architectures
+* 📈 Hospitality & Revenue Management solutions
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/your-profile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://leetcode.com/yourusername">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-</p>
+I enjoy solving real-world business problems using software and continuously learning new technologies.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Current Focus
+
+* 🔥 AI Agent Development
+* 📊 Revenue Optimization Systems
+* 🏨 Hospitality Technology
+* 🤖 LLM Applications
+* ⚡ Automation Workflows
+* ☁️ Cloud Deployment
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css"/>
+
 </p>
 
-### Frameworks & Libraries
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,bootstrap,tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+
 </p>
 
-### Databases
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase"/>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+
 </p>
 
-### Tools & Platforms
+### AI & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux,aws"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+LLMs • AI Agents • Prompt Engineering • Automation • RAG
+
 </p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vscode"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🏨 Revenue Management Agent
+
+**Python**
+
+An AI-powered revenue optimization system for hotels and short-term rentals.
+
+### Features
+
+* 📈 Dynamic pricing
+* 🏨 Occupancy forecasting
+* 📅 Event-aware pricing
+* 💰 Competitor rate analysis
+* 🤖 AI-driven recommendations
+
+**Topics**
+
+`AI Agents`
+
+`Hospitality`
+
+`Demand Forecasting`
+
+`Revenue Management`
+
+---
+
+## 📡 Telecom Agent
+
+**JavaScript**
+
+AI-powered automation designed for telecommunications workflows.
+
+* Intelligent automation
+* Modern JavaScript architecture
+* API integrations
+
+---
+
+## 🤖 Social Media Agent
+
+**Python**
+
+An AI assistant that automates social media workflows and content generation.
+
+Current focus:
+
+* Content automation
+* AI-assisted writing
+* Workflow optimization
+
+---
+
+## 🎨 Tasty QR Generator
+
+**TypeScript**
+
+Modern QR code generation application with a clean and responsive interface.
 
 ---
 
@@ -79,9 +169,9 @@ I'm a passionate Full Stack Developer who enjoys designing and building scalable
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=geanremona&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=geanremona&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanremona&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanremona&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,97 +197,61 @@ I'm a passionate Full Stack Developer who enjoys designing and building scalable
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=geanremona&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=geanremona&theme=tokyonight&column=4"/>
 
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🎯 2026 Goals
 
-### 🤖 AI Resume Analyzer
-
-> Intelligent resume analysis with AI-powered feedback and recommendations.
-
-**Tech Stack**
-
-`React` • `Spring Boot` • `Gemini API`
-
----
-
-### 🛒 E-Commerce Platform
-
-Modern shopping application with authentication, payments, and admin dashboard.
-
-**Tech Stack**
-
-`React` • `Node.js` • `MongoDB`
+* 🚀 Build production-ready AI agents
+* ☁️ Master AWS & cloud-native development
+* 🤖 Explore multi-agent systems
+* 📈 Contribute to open source
+* 🏆 Participate in more hackathons
+* 📚 Continue learning advanced system design
 
 ---
 
-### 📚 Library Management System
+# 💡 Interests
 
-A complete library management application with user authentication and book tracking.
-
-**Tech Stack**
-
-`Java` • `Spring Boot` • `MySQL`
-
----
-
-### 💬 Chat Application
-
-Real-time messaging platform with authentication and WebSocket communication.
-
-**Tech Stack**
-
-`React` • `Spring Boot` • `WebSocket`
+* Artificial Intelligence
+* Agentic AI
+* Hospitality Technology
+* Revenue Optimization
+* Backend Engineering
+* Cloud Computing
+* Full Stack Development
 
 ---
 
-# 📚 Currently Learning
+# 💬 Favorite Quote
 
-* ☁️ AWS Cloud
-* 🐳 Docker & Kubernetes
-* 🏗️ System Design
-* ⚙️ Microservices Architecture
-* 🤖 Artificial Intelligence
-* 🔐 Application Security
+> *"The best software solves real problems for real people."*
 
 ---
 
-# 💼 What I Bring
+<div align="center">
 
-✅ Clean & maintainable code
+⭐ Thanks for visiting my profile!
 
-✅ RESTful API development
-
-✅ Responsive UI development
-
-✅ Database design
-
-✅ Performance optimization
-
-✅ Agile collaboration
-
----
-
-# 💭 Developer Quote
-
-> *"Great software is built one thoughtful commit at a time."*
-
----
-
-<p align="center">
-
-### Thanks for visiting! ⭐
-
-If you like my work, consider following my profile and checking out my repositories.
+If you find my projects interesting, feel free to explore my repositories, leave a ⭐, or connect with me.
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to explore my repositories, leave a ⭐, or connect with me.
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
