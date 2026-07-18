@@ -236,17 +236,6 @@ Modern QR code generation application with a clean and responsive interface.
 
 ---
 
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you find my projects interesting, feel free to explore my repositories, leave a ⭐, or connect with me.
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
