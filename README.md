@@ -101,7 +101,7 @@ Agentic pipeline that ingests bookings, competitor rates & event calendars to de
 <td width="50%" valign="top">
 
 ### 📱 Instagram Automation Engine
-**ManyChat-Style DM Automation System**
+**Keyword-triggered comment-to-DM automation via Meta Graph API**
 
 Production-ready automation backend leveraging the Meta Graph API & Messenger Platform. Detects comments/followers in real-time, triggers keyword-based DM responses, and respects Meta's 24-hour messaging window.
 
@@ -264,7 +264,7 @@ End-to-end security hardening across multiple production codebases: Git secret r
 | 🤖 **5+ Agentic AI Systems** | Production-grade agents with LangGraph multi-step workflows |
 | 🔐 **PCI DSS / OWASP Certified Security** | Full compliance audits across production SaaS codebases |
 | 📡 **Telecom NOC Agent — TSLAM-4B** | Enterprise AI with Neo4j, ChromaDB, OR-Tools optimization |
-| 📱 **Meta Graph API Integration** | ManyChat-style Instagram automation at 200 DM/hr scale |
+| 📱 **Meta Graph API Integration** | Keyword-triggered comment-to-DM automation at 200 DM/hr scale |
 | 🎬 **Multi-Platform Content Pipeline** | Fully automated Claude → HeyGen → Buffer → ManyChat flow |
 | ☁️ **Cloud Deployments on Vultr** | Systemd + Docker + Nginx production deployments |
 
