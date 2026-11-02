@@ -11,11 +11,11 @@
 </p><p align="center">
   <a href="https://github.com/geanremona">GitHub</a>
   &nbsp;·&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/geanremona/)">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="[YOUR_PORTFOLIO_URL](https://www.geanremona.com/)">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:geanremona.tech@gmail.com">Email</a>
 </p>About
 I'm a developer driven by curiosity, thoughtful engineering, and a strong interest in building technology that is both useful and secure.
 
